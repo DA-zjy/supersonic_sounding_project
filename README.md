@@ -73,7 +73,7 @@
 ## 项目演示 (Demonstration)
 
 **实验装置:**
-![我的实验装置图][(https://imgur.com/a/h0NrGUK)](https://imgur.com/a/h0NrGUK)
+![我的实验装置图](https://imgur.com/a/h0NrGUK)
 
 **手机接收数据:**
-![手机蓝牙数据截图][(https://i.imgur.com/your_bluetooth_screenshot.jpg)](https://imgur.com/a/tR68jlx)
+![手机蓝牙数据截图](https://imgur.com/a/tR68jlx)
